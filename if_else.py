@@ -1,0 +1,12 @@
+# Name : Augustine Mwangi
+# Date : 16/02/2026
+
+# Program to show if else conditionals
+
+age = int(input("Enter your age:"))
+
+if age >= 18:
+    print("You are allowed to drive")
+
+if age <= 18 :
+    print("You are too young to drive")
