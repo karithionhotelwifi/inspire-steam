@@ -1,11 +1,11 @@
 # Name : Augustine Mwangi
-# Date : 1/02/2026
+# Date : 16/02/2026
 6
 # Program to Calculate income tax
 
-salary = int(input("Enter your gross salary:"))
-if salary< 500000:
-    tax = (.5/100) *salary
+salary = int(i6nput("Enter your gross salary:"))
+if salary(>500000 and salary <100000)
+    tax = (4.5/100) *salary
     net_salary = salary - tax
 
 print(f"Gross salary = {salary}")
